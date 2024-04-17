@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhiyan-S
-- 👀 I’m interested in Programming, 3D-Modeling, Video Editing, Guitar
+- 👀 I’m interested in Programming, 3D-Modeling, Video Editing, Gaming, Guitar
 - 🌱 I’m currently learning Machine Learning With pytorch, dynamic programming and game development with unity.
 - 💞️ I’m looking to collaborate on : 
 - 📫 How to reach me : Discord(Username = abhiyans)
